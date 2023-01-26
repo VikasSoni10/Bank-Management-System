@@ -108,12 +108,12 @@ int main()
 
 		cout<<"\t\t    ::MAIN MENU::\n";
 		cout<<"\n\t\t1. NEW Bank_Account";
-		cout<<"\n\t\t2. Money_Deposit Total-Money";
-		cout<<"\n\t\t3. WITHDRAW Total-Money";
+		cout<<"\n\t\t2. Money Deposit";
+		cout<<"\n\t\t3. WITHDRAW Money";
 		cout<<"\n\t\t4. BALANCE ENQUIRY";
 		cout<<"\n\t\t5. ALL Bank_Account HOLDER LIST";
 		cout<<"\n\t\t6. CLOSE AN Bank_Account";
-		cout<<"\n\t\t7. Updation AN Bank_Account";
+		cout<<"\n\t\t7. Updation in Bank_Account";
 		cout<<"\n\t\t8. EXIT";
 		cout<<"\n\n\t\tSelect Your Option (1-8): ";
 		cin>>ch;
